@@ -34,6 +34,6 @@
 <p align="left">
         <img height="170" src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=discord_old_blurple"
     />
-        <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=discord_old_blurple" 
+        <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=discord_old_blurple" 
     />
 </p>
