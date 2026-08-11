@@ -13,8 +13,8 @@
   <a href="https://instagram.com/joao.wtr">
     <img src="https://img.shields.io/badge/Instagram-@joao.wtr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@joaowtr">
-    <img src="https://img.shields.io/badge/TikTok-@joaowtr-000000?style=for-the-badge&logo=tiktok" />
+  <a href="https://www.tiktok.com/@joao.wtr">
+    <img src="https://img.shields.io/badge/TikTok-@joao.wtr-000000?style=for-the-badge&logo=tiktok" />
   </a>
 </p>
 
