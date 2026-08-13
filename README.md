@@ -7,9 +7,9 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="www.linkedin.com/in/joao-armimdo-santos-wolter-99242539a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/joão-armimdo-santos-wolter-99242539a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://instagram.com/joao.wtr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -32,8 +32,12 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-        <img height="170" src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=github_dark"
-    />
-        <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=github_dark" 
-    />
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=github_dark"
+  />
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=github_dark"
+  />
 </p>
