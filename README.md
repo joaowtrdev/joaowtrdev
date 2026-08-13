@@ -41,15 +41,3 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=transparent"
   />
 </p>
-
-  <a href="https://github.com/joaowtrdev/gerador-code-128">
-    <img
-      width="48%"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=joaowtrdev&repo=gerador-code-128&theme=transparent"
-    />
-    <a href="https://github.com/joaowtrdev/terms-of-service-bot.git">
-    <img
-      width="48%"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=joaowtrdev&repo=terms-of-service-bot&theme=transparent"
-    />
-  </a>
