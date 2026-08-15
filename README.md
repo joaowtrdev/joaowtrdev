@@ -1,6 +1,30 @@
 ## João Armindo 👨🏻‍💻
 
-**Hello!👋🏻 My name is João Armindo, I’m 20 years old, and I’m a Systems Analysis and Development student at Unicesumar. I’m constantly learning and looking to improve my skills in programming, technology, and software development through studies and hands-on projects.**
+**Olá!👋🏻 Me chamo João Armindo, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar. Estou em constante aprendizado, buscando desenvolver minhas habilidades em programação, tecnologia e desenvolvimento de software por meio de estudos e projetos práticos.**
+
+---
+
+## 🛠️ Languages and Technologies
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github"
+  />
+  <img
+    width="43%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=transparent"
+  />
+</p>
 
 ---
 
@@ -16,26 +40,4 @@
   <a href="https://www.tiktok.com/@joaowtr">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok" />
   </a>
-</p>
-
----
-
-## 🛠️ Languages and Technologies
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img
-    width="48%"
-    src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github"
-  />
-  <img
-    width="43%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=transparent"
-  />
 </p>
