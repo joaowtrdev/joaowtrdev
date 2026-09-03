@@ -1,6 +1,10 @@
 <img width="100%" src="./img/coding.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile+;Constantly+learning)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Constantly+learning" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 📊 GitHub Status
 
