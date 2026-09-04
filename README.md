@@ -10,11 +10,11 @@
 
 <p align="center">
   <img
-    width="35%"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&icon_color=FFFFFF&v=2"
   />
   <img
-    width="35%"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&v=2"
   />
 </p>
