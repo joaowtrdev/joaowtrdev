@@ -8,12 +8,13 @@
 
 ## 📊 GitHub Status
 
-<p align="left">
+<p align="center">
   <img
+    width="35%"
     src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&icon_color=FFFFFF&v=2"
   />
-
   <img
+    width="35%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&v=2"
   />
 </p>
@@ -43,7 +44,7 @@
   <a href="https://instagram.com/joao.wtr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@joaowtr">
+  <a href="https://www.tiktok.com/@joao.wtr">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok" />
   </a>
 </p>
