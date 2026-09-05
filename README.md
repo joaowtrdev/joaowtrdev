@@ -11,11 +11,11 @@
 <p align="center">
   <img
     width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&icon_color=FFFFFF&v=2"
+    src="https://github-stats-extended.vercel.app/api?username=joaowtrdev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&icon_color=FFFFFF&cache_seconds=21600&v=3"
   />
   <img
     width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&v=2"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaowtrdev&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=4169E1&text_color=FFFFFF&cache_seconds=21600&langs_count=8&v=3"
   />
 </p>
 
